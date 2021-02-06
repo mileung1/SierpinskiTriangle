@@ -2,7 +2,7 @@ public void setup()
 {
   size(400,400);
   background(0);
-  stroke(0,0,255);
+  stroke(344,767,257);
 }
 public void draw()
 {
